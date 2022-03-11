@@ -58,12 +58,13 @@
   width: 17%;
 }
 .framewrapper{
-  height: 90vh;
+  height: 100vh;
 }
 
 .waverow{
   z-index: 2;
-  position: relative;
+  position: absolute;
+  width: 100vw;
 }
 
 .framerow{
@@ -74,3 +75,8 @@
 .footerrow{
   z-index: 2;
 }
+
+.row {
+  margin: 0px;
+}
+
