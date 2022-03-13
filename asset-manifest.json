@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/aisummit/static/css/main.90e84273.css",
-    "main.js": "/aisummit/static/js/main.671bdb0d.js",
+    "main.css": "/aisummit/static/css/main.226f1364.css",
+    "main.js": "/aisummit/static/js/main.18ac7c77.js",
     "static/js/787.0f09043d.chunk.js": "/aisummit/static/js/787.0f09043d.chunk.js",
     "static/media/GDSCMPSTME.png": "/aisummit/static/media/GDSCMPSTME.4871c3f6950e94d14537.png",
     "static/media/AISummitLogo.png": "/aisummit/static/media/AISummitLogo.c3bb84759b4c2eba7468.png",
     "static/media/logo.svg": "/aisummit/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/aisummit/index.html",
-    "main.90e84273.css.map": "/aisummit/static/css/main.90e84273.css.map",
-    "main.671bdb0d.js.map": "/aisummit/static/js/main.671bdb0d.js.map",
+    "main.226f1364.css.map": "/aisummit/static/css/main.226f1364.css.map",
+    "main.18ac7c77.js.map": "/aisummit/static/js/main.18ac7c77.js.map",
     "787.0f09043d.chunk.js.map": "/aisummit/static/js/787.0f09043d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90e84273.css",
-    "static/js/main.671bdb0d.js"
+    "static/css/main.226f1364.css",
+    "static/js/main.18ac7c77.js"
   ]
 }
