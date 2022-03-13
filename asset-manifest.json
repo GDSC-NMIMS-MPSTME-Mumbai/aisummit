@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/aisummit/static/css/main.b40b119f.css",
+    "main.css": "/aisummit/static/css/main.36de7121.css",
     "main.js": "/aisummit/static/js/main.aaf4dde5.js",
     "static/js/787.0f09043d.chunk.js": "/aisummit/static/js/787.0f09043d.chunk.js",
     "static/media/GDSCMPSTME.png": "/aisummit/static/media/GDSCMPSTME.4871c3f6950e94d14537.png",
     "static/media/AISummitLogo.png": "/aisummit/static/media/AISummitLogo.c3bb84759b4c2eba7468.png",
     "static/media/logo.svg": "/aisummit/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/aisummit/index.html",
-    "main.b40b119f.css.map": "/aisummit/static/css/main.b40b119f.css.map",
+    "main.36de7121.css.map": "/aisummit/static/css/main.36de7121.css.map",
     "main.aaf4dde5.js.map": "/aisummit/static/js/main.aaf4dde5.js.map",
     "787.0f09043d.chunk.js.map": "/aisummit/static/js/787.0f09043d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b40b119f.css",
+    "static/css/main.36de7121.css",
     "static/js/main.aaf4dde5.js"
   ]
 }
