@@ -138,3 +138,6 @@
     border: none;
 }
 
+.framewrapper {
+    z-index: 5 !important;
+}
