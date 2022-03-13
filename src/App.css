@@ -64,7 +64,7 @@
 .waverow{
   z-index: 2;
   position: absolute;
-  width: 100vw;
+  width: 100%;
 }
 
 .framerow{
