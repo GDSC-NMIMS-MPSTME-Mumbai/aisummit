@@ -132,7 +132,6 @@
 
 .videoframe {
     width:-webkit-fill-available;
-    max-width: (-webkit-fill-available)-10%;
     height:40%; 
     z-index: 5; 
     margin-top:15%; 
