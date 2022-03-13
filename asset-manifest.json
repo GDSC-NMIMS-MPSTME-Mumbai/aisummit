@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/aisummit/static/css/main.a5d6867f.css",
-    "main.js": "/aisummit/static/js/main.448db6ad.js",
+    "main.css": "/aisummit/static/css/main.6a850a0e.css",
+    "main.js": "/aisummit/static/js/main.fdafd4de.js",
     "static/js/787.0f09043d.chunk.js": "/aisummit/static/js/787.0f09043d.chunk.js",
     "static/media/GDSCMPSTME.png": "/aisummit/static/media/GDSCMPSTME.4871c3f6950e94d14537.png",
     "static/media/AISummitLogo.png": "/aisummit/static/media/AISummitLogo.c3bb84759b4c2eba7468.png",
     "static/media/logo.svg": "/aisummit/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/aisummit/index.html",
-    "main.a5d6867f.css.map": "/aisummit/static/css/main.a5d6867f.css.map",
-    "main.448db6ad.js.map": "/aisummit/static/js/main.448db6ad.js.map",
+    "main.6a850a0e.css.map": "/aisummit/static/css/main.6a850a0e.css.map",
+    "main.fdafd4de.js.map": "/aisummit/static/js/main.fdafd4de.js.map",
     "787.0f09043d.chunk.js.map": "/aisummit/static/js/787.0f09043d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5d6867f.css",
-    "static/js/main.448db6ad.js"
+    "static/css/main.6a850a0e.css",
+    "static/js/main.fdafd4de.js"
   ]
 }
