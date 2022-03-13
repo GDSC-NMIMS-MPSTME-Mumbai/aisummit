@@ -45,7 +45,7 @@ export default class Gameframe extends Component {
                                 <li></li>
                             </ul>
                             <Iframe2 iframe={video1frame} />
-                            {/* <Card/> */}
+                            <Card/>
                         </div >
                     </div>
                     <div className="row video2">
@@ -64,7 +64,7 @@ export default class Gameframe extends Component {
                                 <li></li>
                             </ul>
                             <Iframe2 iframe={video2frame} />
-                            {/* <Card/> */}
+                            <Card/>
                         </div >
                     </div>
                     <div className="row video3">
@@ -83,7 +83,7 @@ export default class Gameframe extends Component {
                                 <li></li>
                             </ul>
                             <Iframe2 iframe={video3frame} />
-                            {/* <Card/> */}
+                            <Card/>
                         </div >
                     </div>
                 </div>
