@@ -121,3 +121,18 @@
   left: 5%;
   box-shadow: 0px 0px 10px #FFFFFF;
 }
+
+@media screen and (orientation: landscape){
+  #circle,
+  #circle-blur,
+  #circle-white{
+    top: 0px;
+    margin-top: 10vh;
+  }
+  .videop{
+    right: 0.5vw;
+    left: auto;
+    padding-top: 0vh; 
+    width: 33vw;
+  }
+}
