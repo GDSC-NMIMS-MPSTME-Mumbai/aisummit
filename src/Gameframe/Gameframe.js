@@ -9,7 +9,7 @@ const video2frame = `<iframe class="videoframe" src="https://www.youtube.com/emb
 const video3frame = `<iframe class="videoframe" src="https://www.youtube.com/embed/HkLfdGGmkxY" ></iframe>`;
 
 function Iframe(props) {
-    return (<div className="framewrapper" dangerouslySetInnerHTML={{ __html: props.iframe ? props.iframe : "" }} />);
+    return (<div className=" wrapper framewrapper" dangerouslySetInnerHTML={{ __html: props.iframe ? props.iframe : "" }} />);
 }
 
 export default class Gameframe extends Component {
