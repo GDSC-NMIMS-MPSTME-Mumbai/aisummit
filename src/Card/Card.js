@@ -23,8 +23,8 @@ export default class Card extends Component {
                     <div id='circle-blur'></div>
                     <div id='circle-white'></div>
                 </div>
-                <p className="videop">Hello World!<br />Coding is fun:)  </p>
-                <p className="videop">Lorem ipsum dolor elit.</p>
+                <p className="videop">{this.props.day}<br />{this.props.title}</p>
+                <p className="videop"></p>
             </div>
         );
 

@@ -137,7 +137,7 @@
     z-index: 5; 
     margin-top:15%; 
     border: none;
-    margin-bottom: 5vh;
+    margin-bottom: 10vh;
 }
 
 @media screen and (orientation:landscape) { 
@@ -147,7 +147,7 @@
         z-index: 5; 
         margin-top:15%; 
         border: none;
-        margin-bottom: 5vh;
+        margin-bottom: 10vh;
     }
 }
 
