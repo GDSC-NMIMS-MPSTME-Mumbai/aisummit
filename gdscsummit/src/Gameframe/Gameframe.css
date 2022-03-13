@@ -131,8 +131,8 @@
 }
 
 .videoframe {
-    width:100%;
-    height:50%; 
+    width:-webkit-fill-available;
+    height:33%; 
     z-index: 5; 
     margin-top:15%; 
     border: none;
