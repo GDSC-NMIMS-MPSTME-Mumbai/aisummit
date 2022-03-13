@@ -27,7 +27,7 @@ export default class Gameframe extends Component {
                 <div className="wrapper videowrapper">
                     <div className="row video1">
                         <div className="area" >
-                            <Iframe iframe={video1frame} />
+                            
                             <ul className="circles">
                                 <li></li>
                                 <li></li>
@@ -40,13 +40,13 @@ export default class Gameframe extends Component {
                                 <li></li>
                                 <li></li>
                             </ul>
-                            
+                            <Iframe iframe={video1frame} />
                             {/* <Card/> */}
                         </div >
                     </div>
                     <div className="row video2">
                         <div className="area area2" >
-                            <Iframe iframe={video2frame} />
+                            
                             <ul className="circles circles2">
                                 <li></li>
                                 <li></li>
@@ -59,13 +59,13 @@ export default class Gameframe extends Component {
                                 <li></li>
                                 <li></li>
                             </ul>
-                            
+                            <Iframe iframe={video2frame} />
                             {/* <Card/> */}
                         </div >
                     </div>
                     <div className="row video3">
                         <div className="area area3" >
-                            <Iframe iframe={video3frame} />
+                            
                             <ul className="circles circles3">
                                 <li></li>
                                 <li></li>
@@ -78,7 +78,7 @@ export default class Gameframe extends Component {
                                 <li></li>
                                 <li></li>
                             </ul>
-                            
+                            <Iframe iframe={video3frame} />
                             {/* <Card/> */}
                         </div >
                     </div>
