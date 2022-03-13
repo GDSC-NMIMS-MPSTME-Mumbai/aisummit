@@ -45,7 +45,7 @@ export default class Gameframe extends Component {
                                 <li></li>
                             </ul>
                             <Iframe2 iframe={video1frame} />
-                            <Card/>
+                            <Card bimg = "https://yt3.ggpht.com/ytc/AKedOLS_aDNqDAZrbhNB8zdM0KTWkDyWdJ9F4IKp48LJhQ=s900-c-k-c0x00ffffff-no-rj"/>
                         </div >
                     </div>
                     <div className="row video2">
@@ -63,8 +63,8 @@ export default class Gameframe extends Component {
                                 <li></li>
                                 <li></li>
                             </ul>
-                            <Iframe2 iframe={video2frame} />
-                            <Card/>
+                            <Iframe2 iframe={video2frame}/>
+                            <Card bimg = "https://debanga.github.io/images/debanga-554x576.jpg"/>
                         </div >
                     </div>
                     <div className="row video3">
@@ -82,8 +82,8 @@ export default class Gameframe extends Component {
                                 <li></li>
                                 <li></li>
                             </ul>
-                            <Iframe2 iframe={video3frame} />
-                            <Card/>
+                            <Iframe2 iframe={video3frame}/>
+                            <Card bimg = "https://media.wired.com/photos/5c0ee0485021782da245e019/1:1/w_1596,h_1596,c_limit/geoffhinton_14977197.jpg"/>
                         </div >
                     </div>
                 </div>

@@ -19,7 +19,7 @@ export default class Card extends Component {
         this.state.renderComponent = (
             <div className="card videocard">
                 <div className="Sun">
-                    <div id='circle'></div>
+                    <div id='circle' style={{background: "url(" +  this.props.bimg + ")"}}></div>
                     <div id='circle-blur'></div>
                     <div id='circle-white'></div>
                 </div>
