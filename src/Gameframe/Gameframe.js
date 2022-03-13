@@ -4,12 +4,16 @@ import './Gameframe.css'
 import Card from '../Card/Card'
 
 const iframe = `<iframe src="https://i.simmer.io/@Oink/aisummit" style="width:100vw;height:100vh; position: relative;z-index: 1;border: none !important;"></iframe>`;
-const video1frame = `<iframe class="videoframe" src="https://www.youtube.com/embed/oLuNjdUiQdQ" ></iframe>`;
-const video2frame = `<iframe class="videoframe" src="https://www.youtube.com/embed/v5emdCdaDxU" ></iframe>`;
-const video3frame = `<iframe class="videoframe" src="https://www.youtube.com/embed/HkLfdGGmkxY" ></iframe>`;
+const video1frame = `<iframe class="videoframe" src="https://www.youtube.com/embed/oLuNjdUiQdQ?wmode=opaque" ></iframe>`;
+const video2frame = `<iframe class="videoframe" src="https://www.youtube.com/embed/v5emdCdaDxU?wmode=opaque" ></iframe>`;
+const video3frame = `<iframe class="videoframe" src="https://www.youtube.com/embed/HkLfdGGmkxY?wmode=opaque" ></iframe>`;
 
 function Iframe(props) {
     return (<div className="framewrapper" dangerouslySetInnerHTML={{ __html: props.iframe ? props.iframe : "" }} />);
+}
+
+function Iframe2(props) {
+    return (<div className="framewrapper2" dangerouslySetInnerHTML={{ __html: props.iframe ? props.iframe : "" }} />);
 }
 
 export default class Gameframe extends Component {
@@ -40,7 +44,7 @@ export default class Gameframe extends Component {
                                 <li></li>
                                 <li></li>
                             </ul>
-                            <Iframe iframe={video1frame} />
+                            <Iframe2 iframe={video1frame} />
                             {/* <Card/> */}
                         </div >
                     </div>
@@ -59,7 +63,7 @@ export default class Gameframe extends Component {
                                 <li></li>
                                 <li></li>
                             </ul>
-                            <Iframe iframe={video2frame} />
+                            <Iframe2 iframe={video2frame} />
                             {/* <Card/> */}
                         </div >
                     </div>
@@ -78,7 +82,7 @@ export default class Gameframe extends Component {
                                 <li></li>
                                 <li></li>
                             </ul>
-                            <Iframe iframe={video3frame} />
+                            <Iframe2 iframe={video3frame} />
                             {/* <Card/> */}
                         </div >
                     </div>
