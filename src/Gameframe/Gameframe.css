@@ -1,17 +1,17 @@
 .area{
     background: #4e54c8;  
-    background: -webkit-linear-gradient(left, #8f94fb, #4e54c8);  
+    background: -webkit-linear-gradient(left, #8f94fb, #fcfcfc);  
     width: 100%;
     height:fit-content;
 }
 .area2 {
     background: #65C18C;
-    background: -webkit-linear-gradient(left, #C1F4C5, #65C18C);  
+    background: -webkit-linear-gradient(left, #C1F4C5, #fefffe);  
 }
 
 .area3 {
     background: #890F0D;
-    background: -webkit-linear-gradient(left, #E83A14, #890F0D);  
+    background: -webkit-linear-gradient(left, #e76464, #ffffff);  
     z-index: 0 !important;
 }
 
